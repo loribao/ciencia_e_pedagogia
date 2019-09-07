@@ -1,0 +1,8 @@
+name: relatividade-tempo
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sympy
+  - matplotlib
+  - ipython

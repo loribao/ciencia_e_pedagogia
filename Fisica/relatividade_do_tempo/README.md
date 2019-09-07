@@ -1,0 +1,1 @@
+![](./imagens/notbook_tempo_relativo.gif)
